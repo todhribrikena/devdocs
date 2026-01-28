@@ -1,9 +1,8 @@
----
-title: Quiz access rule sub-plugins
-tags:
-  - Quiz
-  - Access
-  - Rule
+Jane te larta
+male
+  luhen nga femijet
+  lojerat
+  vlashi personazh i pjeses letrare
   - Subplugin
   - Plugintype
   - Override
